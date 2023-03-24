@@ -8,6 +8,7 @@ public class PruebaFigura {
 private static final String area = "El �rea es ";
 
 public static void main(String[] args) {
+	System.out.print ("pipo");
 int opción;
 Scanner teclado = new Scanner (System.in);
 do { 
