@@ -20,6 +20,7 @@ return lado1;
 
 public double getLado2(){
 return lado2;
+bfiieeded
 }
 
 public double getLado3(){
